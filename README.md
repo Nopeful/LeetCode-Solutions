@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-This respository includes mt solutions of problems in LeetCode.
+This respository includes my solutions of problems in LeetCode.
